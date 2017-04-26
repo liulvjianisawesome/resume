@@ -45,4 +45,4 @@
 - 首先要验证服务器接收到的消息是否来自微信服务器，把请求中的signature、timestamp、nonce、echostr的值读取出来，然后将token、timestamp、nonce三个参数进行字典序排序后拼接起来进行sha1加密，加密后的字符串与signature对比，若相同则该请求来自微信服务器，返回echostr。
 - 对服务器传来的xml数据进行解析，解析成javascript对象，根据对象中值的不同返回不同的数据，当然返回的数据也必须按照微信开发者文档组装成xml格式数据。
 ## 技能评价
-cs 科班毕业，对常见的数据结构和算法有一定了解。熟悉 W3C 规范，能熟练使用 html、css快速还原设计稿。javascript 基础扎实，对作用域、闭包、this、prototype、js的面向对象编程、promise、异步、回调等知识有着深入理解。对 http 协议的常用状态码和缓存机制有一定了解。对前端自动化、工程化、性能优化有一定认识。框架的话比较熟悉 react、redux。对 nodejs 有一定了解，能够用express和koa框架快速搭建服务器程序。
+cs 科班毕业，对常见的数据结构和算法有一定了解。熟悉 W3C 规范，能熟练使用 html、css快速还原设计稿。javascript 基础扎实，对作用域、闭包、this、prototype、js的面向对象编程、promise、异步、回调等知识有着深入理解，目前正在读你不知道的javascript这本书。对 http 协议的常用状态码和缓存机制有一定了解。对前端自动化、工程化、性能优化有一定了解。框架的话比较熟悉 react、redux。对 nodejs 有一定了解，能够用express和koa框架快速搭建服务器程序。
