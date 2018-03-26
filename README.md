@@ -43,4 +43,4 @@
 - [预览地址](https://q123321.github.io/JDcloud/build/index.html)  
 
 # 技能评价
-熟悉javascript，对于ES6有一定了解。熟悉react的使用，熟悉redux的使用以及源代码。希望能找一份使用react技术栈的工作。
+熟悉javascript，对于ES6有一定了解。熟悉react的使用，熟悉redux的使用以及源代码。
