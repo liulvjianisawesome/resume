@@ -40,7 +40,7 @@
 - 利用webpack构造工作流。
 - 利用react构造页面，redux进行全局数据管理。
 - 利用jest、sinon、react-mock-store等进行测试。
-- [预览地址](https://q123321.github.io/JDcloud/build/index.html)  
+- [项目地址](https://github.com/liulvjianisawesome/hacker-news)
 
 # 技能评价
 熟悉javascript，对于ES6有一定了解。熟悉react的使用，熟悉redux的使用以及源代码。
