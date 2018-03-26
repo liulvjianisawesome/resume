@@ -15,8 +15,6 @@
 
 - 目前状态： 离职，正在找工作
 
-- 居住地点： 深圳市龙岗区坂田街道
-
 - 应聘职位：前端开发工程师
 
 - 期望工作地点：深圳
@@ -45,4 +43,4 @@
 - [预览地址](https://q123321.github.io/JDcloud/build/index.html)  
 
 # 技能评价
-cs 科班毕业，对常见的数据结构和算法有一定了解。熟练使用subline和chrome开发调试工具。熟悉 W3C 规范，能熟练使用 html、css快速还原设计稿。javascript 基础扎实，对作用域、闭包、this、prototype、js的面向对象编程、promise、异步、回调等知识有着深入理解，目前正在读你不知道的javascript这本书。对 http 协议的常用状态码和缓存机制有一定了解。对前端自动化、工程化、性能优化有一定了解。框架的话比较熟悉 react、redux。对 nodejs 有一定了解，能够用express和koa框架快速搭建服务器程序。
+熟悉javascript，熟悉react的使用，熟悉redux的使用以及源代码。希望能找一份使用react技术栈的工作。
