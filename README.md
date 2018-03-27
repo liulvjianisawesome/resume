@@ -36,11 +36,17 @@
 - 利用reac编写页面。
  
 # 项目作品
-#### React
+#### React SPA
+- 利用hakernewsAPI抓取数据并展示，实现客户端排序、客户端缓存、服务器端搜索功能。
 - 利用webpack构造工作流。
 - 利用react构造页面，redux进行全局数据管理。
 - 利用jest、sinon、react-mock-store等进行测试。
 - [项目地址](https://github.com/liulvjianisawesome/hacker-news)
+
+#### Panorama Edit
+- 读取全景图数据并在网页中渲染出来。
+- 构造用户交互页面，使得用户可以个性化编辑全景图。
+- 与后台交互保存用户的行为信息。
 
 # 技能评价
 熟悉javascript，对于ES6有一定了解。熟悉react的使用，熟悉redux的使用以及源代码。
