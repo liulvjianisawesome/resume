@@ -49,4 +49,4 @@
 - 与后台交互保存用户的行为信息。
 
 # 技能评价
-熟悉javascript，对于ES6有一定了解。熟悉react的使用，熟悉redux的使用以及源代码。
+熟悉javascript、ES6。一年的react使用经验，熟悉redux的使用以及源代码。
